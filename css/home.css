@@ -344,20 +344,3 @@ footer .input-group-addon {
 
 
 /*==================================*/
-#extraProducts {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh; /* Căn giữa theo chiều dọc màn hình */
-}
-
-#extraProducts .acc-title h4 {
-    display: inline-block;
-    border-bottom: 2px solid black;
-    padding-bottom: 5px;
-}
-
-#extraProducts .btn {
-    font-size: 1rem;
-    padding: 10px 20px;
-}
